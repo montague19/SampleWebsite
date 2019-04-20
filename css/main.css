@@ -1,0 +1,23 @@
+.jumbotron {
+background-image: url('../img/cupcakes.jpg');
+background-repeat: repeat;
+background-position: center;
+background-size: contain;
+background-attachment: fixed;
+min-height: 700px;
+}
+
+#welcome h1 {
+  font-size: 70px;
+  font-weight: 800;
+  color: black;
+  font-family: Calibri;
+}
+
+
+#welcome h2 {
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+  font-family: Calibri;
+}
