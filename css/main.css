@@ -16,8 +16,14 @@ min-height: 700px;
 
 
 #welcome h2 {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 600;
   color: black;
-  font-family: Calibri;
+  font-family: cursive; Calibri;
+}
+
+
+ {
+  color: #e6005c;
+
 }
