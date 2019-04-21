@@ -1,0 +1,39 @@
+.jumbotron {
+background-image: url('../img/cupcakes.jpg');
+background-repeat: repeat;
+background-position: center;
+background-size: contain;
+background-attachment: fixed;
+min-height: 700px;
+}
+
+#welcome h1 {
+  font-size: 70px;
+  font-weight: 800;
+  color: black;
+  font-family: Calibri;
+}
+
+
+#welcome h2 {
+  font-size: 25px;
+  font-weight: 600;
+  color: black;
+  font-family: cursive; Calibri;
+}
+
+a:link {color: hotPink;
+  font-weight: bold;
+}
+
+a:hover {background-color: pink;}
+
+#moreinfo h1, .about-info h2 {
+color: pink;
+}
+
+li {list-style-image: url(../img/pinkcake.jpg);}
+
+#footer h4 {
+    color: pink;
+}
