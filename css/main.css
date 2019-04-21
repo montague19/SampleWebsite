@@ -26,8 +26,14 @@ a:link {color: hotPink;
   font-weight: bold;
 }
 
-a:hover {color: Pink;
-font-weight: bold;
-font-size: 20px;
+a:hover {background-color: pink;}
 
+#moreinfo h1, .about-info h2 {
+color: pink;
+}
+
+li {list-style-image: url(../img/pinkcake.jpg);}
+
+#footer h4 {
+    color: pink;
 }
