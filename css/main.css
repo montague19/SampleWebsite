@@ -22,8 +22,12 @@ min-height: 700px;
   font-family: cursive; Calibri;
 }
 
+a:link {color: hotPink;
+  font-weight: bold;
+}
 
- {
-  color: #e6005c;
+a:hover {color: Pink;
+font-weight: bold;
+font-size: 20px;
 
 }
