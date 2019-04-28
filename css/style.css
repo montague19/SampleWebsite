@@ -160,6 +160,8 @@ table {
 .newinput .form-group {
     margin: 8px 0 9px !important;
     padding-bottom: 10px;
+		border: 2px solid pink;
+  	border-radius: 4px;
 }
 .contact-form .form-control {
     color: #000 !important;
