@@ -10,7 +10,7 @@ min-height: 700px;
 #welcome h1 {
   font-size: 70px;
   font-weight: 800;
-  color: black;
+  color: 262626;
   font-family: satisfy;
 }
 
@@ -18,7 +18,7 @@ min-height: 700px;
 #welcome h2 {
   font-size: 25px;
   font-weight: 600;
-  color: black;
+  color: 262626;
   font-family: cursive; Calibri;
 }
 
@@ -43,14 +43,14 @@ li {list-style-image: url(../img/pinkcake.jpg);}
     color: pink;
 }
 
-#about h1 {color: pink;
+#about h1 {color: 262626;
 font-weight: bold;
 text-align: center;
 font-family: satisfy;
 font-size: 70px;
 }
 
-#about h2 {color: #a3086c;
+#about h2 {color: #262626;
 font-family: cursive; Calibri;
 }
 
