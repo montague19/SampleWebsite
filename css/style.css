@@ -108,6 +108,7 @@ table {
 .header-p {
     color: #9699a6;
     font-size: 16px;
+		font-family: 'Satisfy', sans-serif;
 }
 .msg-row {
     margin-top: 56px;
