@@ -93,13 +93,6 @@ table {
     transition: margin-left .5s;
     padding: 20px;
 }
-.menu-icon
-{
-    color: #fff;
-    font-size: 30px;
-    margin-top: 30px;
-    cursor: pointer;
-}
 
 .header-h {
     color: #FFB03B;
@@ -130,35 +123,7 @@ table {
     font-size: 32px;
     margin-top: 18px;
 }
-.bg-1 {
-    background-color: #fecc17;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-}
-.bg-14 {
-    background-color: #ccdb38;
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-}
-.dark-blue {
-    color: #31364c;
-    font-size: 24px;
-    margin-top: 0;
-}
-.light-blue {
-    color: #9699a6;
-    font-size: 16px;
-    margin-bottom: 1px;
-}
-.media-body {
-    margin-left: 10px;
-    padding-left: 13px;
-}
-.media-2 {
-    margin-top: 30px;
-}
+
 .newinput .form-group {
     margin: 8px 0 9px !important;
     padding-bottom: 10px;
@@ -215,44 +180,7 @@ table {
     color: #000 !important;
 }
 
-.validation {
-    color: red;
-    display:none;
-    margin: 0 0 20px;
-    font-weight:400;
-    font-size:13px;
-}
-
-#sendmessage {
-    color: green;
-    border:1px solid green;
-    display:none;
-    text-align:center;
-    padding:15px;
-    font-weight:600;
-    margin-bottom:15px;
-}
-
-#errormessage {
-    color: red;
-    display:none;
-    border:1px solid red;
-    text-align:center;
-    padding:15px;
-    font-weight:600;
-    margin-bottom:15px;
-}
-
-#sendmessage.show, #errormessage.show, .show {
-    display:block;
-}
-
-.phone-in-talk, .hour-icon
-{
-    font-size: 35px;
-    line-height: 70px;
-    color: rgb(255, 255, 255);
-}
+.
 
 
 .heading{
@@ -403,44 +331,4 @@ table {
     color: #fff;
     text-transform: uppercase;
     margin: 0 5px;
-}
-@media (min-width: 768px) and (max-width: 980px) {
-    .content-holder h2 {
-        font-size: 23px;
-    }
-    .details-text p {
-        line-height: 16.6px;
-    }
-}
-@media (min-width: 451px) and (max-width: 767px) {
-    .details-text {
-        border:0px;
-        border-bottom: 2px solid #A87F41;
-    }
-}
-@media (min-width: 20px) and (max-width: 450px) {
-    .menu-restaurant {
-    width: 100%;
-    }
-    .details-text {
-        border:0px;
-        border-bottom: 2px solid #A87F41;
-    }
-    .header-h {
-        font-size: 35px;
-    }
-    .header-p, body{
-        font-size: 14px;
-    }
-    .about-info, .mr-15{
-        margin-bottom: 15px;
-    }
-    #banner h2{
-        font-size: 25px;
-    }
-    #banner p{
-        font-size: 25px;
-    }
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
 }
